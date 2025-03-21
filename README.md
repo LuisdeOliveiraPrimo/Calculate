@@ -1,4 +1,4 @@
-# Calculate
+# Calculate.
 Uma calculadora 
 
 #importando Tkinter
